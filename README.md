@@ -16,7 +16,7 @@ README.md: Project documentation, business context, data architecture, and execu
 1. Module 01: Schema & Data Ingestion (01_schema_and_import.sql)
 -- ============================================================================
 -- SCRIPT 01: Création du Schéma et Importation des Données (ETL)
--- Projet: FP&A Performance & Variance Analysis
+-- Projet:  Performance & Variance Analysis
 -- ============================================================================
 
 USE [finance_db];
